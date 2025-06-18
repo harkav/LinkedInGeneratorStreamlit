@@ -1,0 +1,379 @@
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	deleted:    ../assignment1/friendly_greeting.txt
+	deleted:    ../assignment1/gitconflict.txt
+	deleted:    ../assignment1/less_friendly_greeting.txt
+	deleted:    ../assignment1/myfirstcommit.txt
+	deleted:    ../assignment2/.pyproject.toml.swp
+	deleted:    ../assignment2/.vscode/settings.json
+	deleted:    ../assignment2/README.md
+	deleted:    ../assignment2/analytic_tools/__init__.py
+	deleted:    ../assignment2/analytic_tools/plotting.py
+	deleted:    ../assignment2/analytic_tools/utilities.py
+	deleted:    ../assignment2/analyze_pollution_data.py
+	deleted:    ../assignment2/pollution_data/LICENCE.txt
+	deleted:    ../assignment2/pollution_data/README.md
+	deleted:    ../assignment2/pollution_data/by_src/src_agriculture/AXciZ_4408.txt
+	deleted:    ../assignment2/pollution_data/by_src/src_agriculture/BKQPm_4576.txt
+	deleted:    ../assignment2/pollution_data/by_src/src_agriculture/CH4.csv
+	deleted:    ../assignment2/pollution_data/by_src/src_agriculture/CH4_198.npy
+	deleted:    ../assignment2/pollution_data/by_src/src_agriculture/CH4_276.npy
+	deleted:    ../assignment2/pollution_data/by_src/src_agriculture/CH4_377.npy
+	deleted:    ../assignment2/pollution_data/by_src/src_agriculture/CH4_954.npy
+	deleted:    ../assignment2/pollution_data/by_src/src_agriculture/CH4_AgG.csv
+	deleted:    ../assignment2/pollution_data/by_src/src_agriculture/CH4_KCe.csv
+	deleted:    ../assignment2/pollution_data/by_src/src_agriculture/CH4_Urk.csv
+	deleted:    ../assignment2/pollution_data/by_src/src_agriculture/CH4_cLe.csv
+	deleted:    ../assignment2/pollution_data/by_src/src_agriculture/CH4_dNx.csv
+	deleted:    ../assignment2/pollution_data/by_src/src_agriculture/CH4_oBB.csv
+	deleted:    ../assignment2/pollution_data/by_src/src_agriculture/CO2.csv
+	deleted:    ../assignment2/pollution_data/by_src/src_agriculture/CO2_305.npy
+	deleted:    ../assignment2/pollution_data/by_src/src_agriculture/CO2_822.npy
+	deleted:    ../assignment2/pollution_data/by_src/src_agriculture/CO2_845.npy
+	deleted:    ../assignment2/pollution_data/by_src/src_agriculture/CO2_875.npy
+	deleted:    ../assignment2/pollution_data/by_src/src_agriculture/CO2_GqF.csv
+	deleted:    ../assignment2/pollution_data/by_src/src_agriculture/CO2_WSn.csv
+	deleted:    ../assignment2/pollution_data/by_src/src_agriculture/CO2_mTb.csv
+	deleted:    ../assignment2/pollution_data/by_src/src_agriculture/DigwD_1714.txt
+	deleted:    ../assignment2/pollution_data/by_src/src_agriculture/FjMMB_4012.txt
+	deleted:    ../assignment2/pollution_data/by_src/src_agriculture/HfJjt_4932.txt
+	deleted:    ../assignment2/pollution_data/by_src/src_agriculture/N2O.csv
+	deleted:    ../assignment2/pollution_data/by_src/src_agriculture/N2O_10.npy
+	deleted:    ../assignment2/pollution_data/by_src/src_agriculture/N2O_426.npy
+	deleted:    ../assignment2/pollution_data/by_src/src_agriculture/N2O_750.npy
+	deleted:    ../assignment2/pollution_data/by_src/src_agriculture/N2O_839.npy
+	deleted:    ../assignment2/pollution_data/by_src/src_agriculture/N2O_POt.csv
+	deleted:    ../assignment2/pollution_data/by_src/src_agriculture/N2O_VCs.csv
+	deleted:    ../assignment2/pollution_data/by_src/src_agriculture/N2O_hIU.csv
+	deleted:    ../assignment2/pollution_data/by_src/src_agriculture/aWTOj_1407.txt
+	deleted:    ../assignment2/pollution_data/by_src/src_agriculture/aYsru_1052.txt
+	deleted:    ../assignment2/pollution_data/by_src/src_agriculture/qxbAJ_2701.txt
+	deleted:    ../assignment2/pollution_data/by_src/src_agriculture/vAhLj_2399.txt
+	deleted:    ../assignment2/pollution_data/by_src/src_agriculture/zMNIn_2776.txt
+	deleted:    ../assignment2/pollution_data/by_src/src_airtraffic/CH4.csv
+	deleted:    ../assignment2/pollution_data/by_src/src_airtraffic/CH4_178.npy
+	deleted:    ../assignment2/pollution_data/by_src/src_airtraffic/CH4_34.npy
+	deleted:    ../assignment2/pollution_data/by_src/src_airtraffic/CH4_629.npy
+	deleted:    ../assignment2/pollution_data/by_src/src_airtraffic/CH4_962.npy
+	deleted:    ../assignment2/pollution_data/by_src/src_airtraffic/CH4_EWg.csv
+	deleted:    ../assignment2/pollution_data/by_src/src_airtraffic/CH4_TOj.csv
+	deleted:    ../assignment2/pollution_data/by_src/src_airtraffic/CH4_ZlV.csv
+	deleted:    ../assignment2/pollution_data/by_src/src_airtraffic/CO2.csv
+	deleted:    ../assignment2/pollution_data/by_src/src_airtraffic/CO2_121.npy
+	deleted:    ../assignment2/pollution_data/by_src/src_airtraffic/CO2_497.npy
+	deleted:    ../assignment2/pollution_data/by_src/src_airtraffic/CO2_975.npy
+	deleted:    ../assignment2/pollution_data/by_src/src_airtraffic/CO2_98.npy
+	deleted:    ../assignment2/pollution_data/by_src/src_airtraffic/CO2_ALb.csv
+	deleted:    ../assignment2/pollution_data/by_src/src_airtraffic/CO2_dyS.csv
+	deleted:    ../assignment2/pollution_data/by_src/src_airtraffic/CO2_gFp.csv
+	deleted:    ../assignment2/pollution_data/by_src/src_airtraffic/CO2_uHL.csv
+	deleted:    ../assignment2/pollution_data/by_src/src_airtraffic/DiLYu_3336.txt
+	deleted:    ../assignment2/pollution_data/by_src/src_airtraffic/HdUdQ_1386.txt
+	deleted:    ../assignment2/pollution_data/by_src/src_airtraffic/N2O.csv
+	deleted:    ../assignment2/pollution_data/by_src/src_airtraffic/N2O_112.npy
+	deleted:    ../assignment2/pollution_data/by_src/src_airtraffic/N2O_58.npy
+	deleted:    ../assignment2/pollution_data/by_src/src_airtraffic/N2O_583.npy
+	deleted:    ../assignment2/pollution_data/by_src/src_airtraffic/N2O_637.npy
+	deleted:    ../assignment2/pollution_data/by_src/src_airtraffic/N2O_DZA.csv
+	deleted:    ../assignment2/pollution_data/by_src/src_airtraffic/N2O_UKk.csv
+	deleted:    ../assignment2/pollution_data/by_src/src_airtraffic/N2O_bwV.csv
+	deleted:    ../assignment2/pollution_data/by_src/src_airtraffic/N2O_nDa.csv
+	deleted:    ../assignment2/pollution_data/by_src/src_airtraffic/N2O_pLt.csv
+	deleted:    ../assignment2/pollution_data/by_src/src_airtraffic/WHiMS_1059.txt
+	deleted:    ../assignment2/pollution_data/by_src/src_airtraffic/ZJyjk_3352.txt
+	deleted:    ../assignment2/pollution_data/by_src/src_airtraffic/cRBxy_2734.txt
+	deleted:    ../assignment2/pollution_data/by_src/src_airtraffic/fbVVt_2637.txt
+	deleted:    ../assignment2/pollution_data/by_src/src_airtraffic/llMiE_1989.txt
+	deleted:    ../assignment2/pollution_data/by_src/src_airtraffic/nmYlt_3822.txt
+	deleted:    ../assignment2/pollution_data/by_src/src_airtraffic/xumxR_3066.txt
+	deleted:    ../assignment2/pollution_data/by_src/src_airtraffic/zeyrx_2739.txt
+	deleted:    ../assignment2/pollution_data/by_src/src_industry/AdRff_1622.txt
+	deleted:    ../assignment2/pollution_data/by_src/src_industry/BlVjf_1603.txt
+	deleted:    ../assignment2/pollution_data/by_src/src_industry/CH4.csv
+	deleted:    ../assignment2/pollution_data/by_src/src_industry/CH4_350.npy
+	deleted:    ../assignment2/pollution_data/by_src/src_industry/CH4_369.npy
+	deleted:    ../assignment2/pollution_data/by_src/src_industry/CH4_955.npy
+	deleted:    ../assignment2/pollution_data/by_src/src_industry/CH4_983.npy
+	deleted:    ../assignment2/pollution_data/by_src/src_industry/CH4_EsA.csv
+	deleted:    ../assignment2/pollution_data/by_src/src_industry/CH4_QPk.csv
+	deleted:    ../assignment2/pollution_data/by_src/src_industry/CH4_gBX.csv
+	deleted:    ../assignment2/pollution_data/by_src/src_industry/CH4_jaT.csv
+	deleted:    ../assignment2/pollution_data/by_src/src_industry/CH4_vZy.csv
+	deleted:    ../assignment2/pollution_data/by_src/src_industry/CH4_zEr.csv
+	deleted:    ../assignment2/pollution_data/by_src/src_industry/CO2.csv
+	deleted:    ../assignment2/pollution_data/by_src/src_industry/CO2_135.npy
+	deleted:    ../assignment2/pollution_data/by_src/src_industry/CO2_362.npy
+	deleted:    ../assignment2/pollution_data/by_src/src_industry/CO2_826.npy
+	deleted:    ../assignment2/pollution_data/by_src/src_industry/CO2_871.npy
+	deleted:    ../assignment2/pollution_data/by_src/src_industry/CO2_ULF.csv
+	deleted:    ../assignment2/pollution_data/by_src/src_industry/CO2_YdX.csv
+	deleted:    ../assignment2/pollution_data/by_src/src_industry/CO2_aXV.csv
+	deleted:    ../assignment2/pollution_data/by_src/src_industry/CO2_bHf.csv
+	deleted:    ../assignment2/pollution_data/by_src/src_industry/JpaDK_3265.txt
+	deleted:    ../assignment2/pollution_data/by_src/src_industry/MOlua_4977.txt
+	deleted:    ../assignment2/pollution_data/by_src/src_industry/N2O.csv
+	deleted:    ../assignment2/pollution_data/by_src/src_industry/N2O_159.npy
+	deleted:    ../assignment2/pollution_data/by_src/src_industry/N2O_22.npy
+	deleted:    ../assignment2/pollution_data/by_src/src_industry/N2O_73.npy
+	deleted:    ../assignment2/pollution_data/by_src/src_industry/N2O_759.npy
+	deleted:    ../assignment2/pollution_data/by_src/src_industry/N2O_VeX.csv
+	deleted:    ../assignment2/pollution_data/by_src/src_industry/N2O_ryI.csv
+	deleted:    ../assignment2/pollution_data/by_src/src_industry/UhJCF_4837.txt
+	deleted:    ../assignment2/pollution_data/by_src/src_industry/WiLux_4620.txt
+	deleted:    ../assignment2/pollution_data/by_src/src_industry/XLxgn_1542.txt
+	deleted:    ../assignment2/pollution_data/by_src/src_industry/kfVHi_4289.txt
+	deleted:    ../assignment2/pollution_data/by_src/src_industry/lkrdi_2935.txt
+	deleted:    ../assignment2/pollution_data/by_src/src_industry/oPIID_4238.txt
+	deleted:    ../assignment2/pollution_data/by_src/src_oil_and_gass/CH4.csv
+	deleted:    ../assignment2/pollution_data/by_src/src_oil_and_gass/CH4_122.npy
+	deleted:    ../assignment2/pollution_data/by_src/src_oil_and_gass/CH4_750.npy
+	deleted:    ../assignment2/pollution_data/by_src/src_oil_and_gass/CH4_849.npy
+	deleted:    ../assignment2/pollution_data/by_src/src_oil_and_gass/CH4_921.npy
+	deleted:    ../assignment2/pollution_data/by_src/src_oil_and_gass/CH4_Yqq.csv
+	deleted:    ../assignment2/pollution_data/by_src/src_oil_and_gass/CH4_hQs.csv
+	deleted:    ../assignment2/pollution_data/by_src/src_oil_and_gass/CH4_mYQ.csv
+	deleted:    ../assignment2/pollution_data/by_src/src_oil_and_gass/CH4_nSW.csv
+	deleted:    ../assignment2/pollution_data/by_src/src_oil_and_gass/CO2.csv
+	deleted:    ../assignment2/pollution_data/by_src/src_oil_and_gass/CO2_100.npy
+	deleted:    ../assignment2/pollution_data/by_src/src_oil_and_gass/CO2_432.npy
+	deleted:    ../assignment2/pollution_data/by_src/src_oil_and_gass/CO2_48.npy
+	deleted:    ../assignment2/pollution_data/by_src/src_oil_and_gass/CO2_720.npy
+	deleted:    ../assignment2/pollution_data/by_src/src_oil_and_gass/CO2_EEw.csv
+	deleted:    ../assignment2/pollution_data/by_src/src_oil_and_gass/CO2_bhw.csv
+	deleted:    ../assignment2/pollution_data/by_src/src_oil_and_gass/Fxsuh_4143.txt
+	deleted:    ../assignment2/pollution_data/by_src/src_oil_and_gass/JgwZa_2879.txt
+	deleted:    ../assignment2/pollution_data/by_src/src_oil_and_gass/N2O.csv
+	deleted:    ../assignment2/pollution_data/by_src/src_oil_and_gass/N2O_162.npy
+	deleted:    ../assignment2/pollution_data/by_src/src_oil_and_gass/N2O_664.npy
+	deleted:    ../assignment2/pollution_data/by_src/src_oil_and_gass/N2O_920.npy
+	deleted:    ../assignment2/pollution_data/by_src/src_oil_and_gass/N2O_938.npy
+	deleted:    ../assignment2/pollution_data/by_src/src_oil_and_gass/N2O_Iar.csv
+	deleted:    ../assignment2/pollution_data/by_src/src_oil_and_gass/N2O_bXI.csv
+	deleted:    ../assignment2/pollution_data/by_src/src_oil_and_gass/N2O_dgB.csv
+	deleted:    ../assignment2/pollution_data/by_src/src_oil_and_gass/N2O_eKh.csv
+	deleted:    ../assignment2/pollution_data/by_src/src_oil_and_gass/N2O_mBo.csv
+	deleted:    ../assignment2/pollution_data/by_src/src_oil_and_gass/N2O_mfJ.csv
+	deleted:    ../assignment2/pollution_data/by_src/src_oil_and_gass/NSRQp_3242.txt
+	deleted:    ../assignment2/pollution_data/by_src/src_oil_and_gass/Tqfjc_3897.txt
+	deleted:    ../assignment2/pollution_data/by_src/src_oil_and_gass/ZXgut_1820.txt
+	deleted:    ../assignment2/pollution_data/by_src/src_oil_and_gass/gxaNl_5000.txt
+	deleted:    ../assignment2/pollution_data/by_src/src_oil_and_gass/iaiJV_2586.txt
+	deleted:    ../assignment2/pollution_data/by_src/src_oil_and_gass/iqFws_3829.txt
+	deleted:    ../assignment2/pollution_data/by_src/src_oil_and_gass/nqvue_2596.txt
+	deleted:    ../assignment2/pollution_data/by_src/src_oil_and_gass/yGrpY_1936.txt
+	deleted:    ../assignment2/pollution_data/by_src/src_road_traffic/AvgHM_3572.txt
+	deleted:    ../assignment2/pollution_data/by_src/src_road_traffic/CH4.csv
+	deleted:    ../assignment2/pollution_data/by_src/src_road_traffic/CH4_254.npy
+	deleted:    ../assignment2/pollution_data/by_src/src_road_traffic/CH4_423.npy
+	deleted:    ../assignment2/pollution_data/by_src/src_road_traffic/CH4_914.npy
+	deleted:    ../assignment2/pollution_data/by_src/src_road_traffic/CH4_983.npy
+	deleted:    ../assignment2/pollution_data/by_src/src_road_traffic/CH4_BEO.csv
+	deleted:    ../assignment2/pollution_data/by_src/src_road_traffic/CH4_iMb.csv
+	deleted:    ../assignment2/pollution_data/by_src/src_road_traffic/CH4_prk.csv
+	deleted:    ../assignment2/pollution_data/by_src/src_road_traffic/CH4_xwt.csv
+	deleted:    ../assignment2/pollution_data/by_src/src_road_traffic/CO2.csv
+	deleted:    ../assignment2/pollution_data/by_src/src_road_traffic/CO2_530.npy
+	deleted:    ../assignment2/pollution_data/by_src/src_road_traffic/CO2_585.npy
+	deleted:    ../assignment2/pollution_data/by_src/src_road_traffic/CO2_696.npy
+	deleted:    ../assignment2/pollution_data/by_src/src_road_traffic/CO2_843.npy
+	deleted:    ../assignment2/pollution_data/by_src/src_road_traffic/CO2_Eqw.csv
+	deleted:    ../assignment2/pollution_data/by_src/src_road_traffic/CO2_ekA.csv
+	deleted:    ../assignment2/pollution_data/by_src/src_road_traffic/CO2_fAP.csv
+	deleted:    ../assignment2/pollution_data/by_src/src_road_traffic/CO2_hkD.csv
+	deleted:    ../assignment2/pollution_data/by_src/src_road_traffic/CO2_uTm.csv
+	deleted:    ../assignment2/pollution_data/by_src/src_road_traffic/GkhUr_2197.txt
+	deleted:    ../assignment2/pollution_data/by_src/src_road_traffic/N2O.csv
+	deleted:    ../assignment2/pollution_data/by_src/src_road_traffic/N2O_180.npy
+	deleted:    ../assignment2/pollution_data/by_src/src_road_traffic/N2O_182.npy
+	deleted:    ../assignment2/pollution_data/by_src/src_road_traffic/N2O_404.npy
+	deleted:    ../assignment2/pollution_data/by_src/src_road_traffic/N2O_TsQ.csv
+	deleted:    ../assignment2/pollution_data/by_src/src_road_traffic/N2O_YaB.csv
+	deleted:    ../assignment2/pollution_data/by_src/src_road_traffic/N2O_qPg.csv
+	deleted:    ../assignment2/pollution_data/by_src/src_road_traffic/WbFju_1744.txt
+	deleted:    ../assignment2/pollution_data/by_src/src_road_traffic/gAOUd_4183.txt
+	deleted:    ../assignment2/pollution_data/by_src/src_road_traffic/iTHox_2510.txt
+	deleted:    ../assignment2/pollution_data/by_src/src_road_traffic/okpqu_3526.txt
+	deleted:    ../assignment2/pollution_data/by_src/src_road_traffic/pOcje_4348.txt
+	deleted:    ../assignment2/pollution_data/by_src/src_road_traffic/uxnMy_2085.txt
+	deleted:    ../assignment2/pollution_data/by_src/src_road_traffic/wsADG_1278.txt
+	deleted:    ../assignment2/pollution_data/by_src/src_road_traffic/xlhaY_4295.txt
+	deleted:    ../assignment2/pollution_data_restructured/by_gas/gas_CH4/src_agriculture_CH4.csv
+	deleted:    ../assignment2/pollution_data_restructured/by_gas/gas_CH4/src_airtraffic_CH4.csv
+	deleted:    ../assignment2/pollution_data_restructured/by_gas/gas_CH4/src_industry_CH4.csv
+	deleted:    ../assignment2/pollution_data_restructured/by_gas/gas_CH4/src_oil_and_gass_CH4.csv
+	deleted:    ../assignment2/pollution_data_restructured/by_gas/gas_CH4/src_road_traffic_CH4.csv
+	deleted:    ../assignment2/pollution_data_restructured/by_gas/gas_CO2/src_agriculture_CO2.csv
+	deleted:    ../assignment2/pollution_data_restructured/by_gas/gas_CO2/src_airtraffic_CO2.csv
+	deleted:    ../assignment2/pollution_data_restructured/by_gas/gas_CO2/src_industry_CO2.csv
+	deleted:    ../assignment2/pollution_data_restructured/by_gas/gas_CO2/src_oil_and_gass_CO2.csv
+	deleted:    ../assignment2/pollution_data_restructured/by_gas/gas_CO2/src_road_traffic_CO2.csv
+	deleted:    ../assignment2/pollution_data_restructured/by_gas/gas_N2O/src_agriculture_N2O.csv
+	deleted:    ../assignment2/pollution_data_restructured/by_gas/gas_N2O/src_airtraffic_N2O.csv
+	deleted:    ../assignment2/pollution_data_restructured/by_gas/gas_N2O/src_industry_N2O.csv
+	deleted:    ../assignment2/pollution_data_restructured/by_gas/gas_N2O/src_oil_and_gass_N2O.csv
+	deleted:    ../assignment2/pollution_data_restructured/by_gas/gas_N2O/src_road_traffic_N2O.csv
+	deleted:    ../assignment2/pollution_data_restructured/figures/gas_CH4.png
+	deleted:    ../assignment2/pollution_data_restructured/figures/gas_CO2.png
+	deleted:    ../assignment2/pollution_data_restructured/figures/gas_N2O.png
+	deleted:    ../assignment2/pyproject.toml
+	deleted:    ../assignment2/tests/conftest.py
+	deleted:    ../assignment2/tests/test_analyze_pollution_data.py
+	deleted:    ../assignment2/tests/test_handin.py
+	deleted:    ../assignment2/tests/test_utilities.py
+	deleted:    ../assignment3/.vscode/settings.json
+	deleted:    ../assignment3/README.md
+	deleted:    ../assignment3/in3110_instapy/__init__.py
+	deleted:    ../assignment3/in3110_instapy/__main__.py
+	deleted:    ../assignment3/in3110_instapy/cli.py
+	deleted:    ../assignment3/in3110_instapy/cython_filters.py
+	deleted:    ../assignment3/in3110_instapy/io.py
+	deleted:    ../assignment3/in3110_instapy/numba_filters.py
+	deleted:    ../assignment3/in3110_instapy/numpy_filters.py
+	deleted:    ../assignment3/in3110_instapy/profiling.py
+	deleted:    ../assignment3/in3110_instapy/python_filters.py
+	deleted:    ../assignment3/in3110_instapy/timing.py
+	deleted:    ../assignment3/profile-report.md
+	deleted:    ../assignment3/pyproject.toml
+	deleted:    ../assignment3/setup.py
+	deleted:    ../assignment3/test.jpg
+	deleted:    ../assignment3/test/conftest.py
+	deleted:    ../assignment3/test/rain.jpg
+	deleted:    ../assignment3/test/test_numba.py
+	deleted:    ../assignment3/test/test_numpy.py
+	deleted:    ../assignment3/test/test_package.py
+	deleted:    ../assignment3/test/test_python.py
+	deleted:    ../assignment3/timing-report.txt
+	deleted:    "../assignment3/timing-report_without_untracked_initial_call\302\250.txt"
+	deleted:    ../assignment4/collect_dates.py
+	deleted:    ../assignment4/example-plot.py
+	deleted:    ../assignment4/fetch_olympic_statistics.py
+	deleted:    ../assignment4/filter_urls.py
+	deleted:    ../assignment4/find_anniversaries.py
+	deleted:    ../assignment4/olympic_games_results/Archery_medal_ranking.png
+	deleted:    ../assignment4/olympic_games_results/Athletics_medal_ranking.png
+	deleted:    ../assignment4/olympic_games_results/Cycling_medal_ranking.png
+	deleted:    ../assignment4/olympic_games_results/Football_medal_ranking.png
+	deleted:    ../assignment4/olympic_games_results/Handball_medal_ranking.png
+	deleted:    ../assignment4/olympic_games_results/Sailing_medal_ranking.png
+	deleted:    ../assignment4/olympic_games_results/best_of_sport_by_Gold.md
+	deleted:    ../assignment4/olympic_games_results/total_medal_ranking.png
+	deleted:    ../assignment4/pyproject.toml
+	deleted:    ../assignment4/requesting_urls.py
+	deleted:    ../assignment4/tables_of_anniversaries/anniversaries_april.md
+	deleted:    ../assignment4/tables_of_anniversaries/anniversaries_august.md
+	deleted:    ../assignment4/tables_of_anniversaries/anniversaries_december.md
+	deleted:    ../assignment4/tables_of_anniversaries/anniversaries_february.md
+	deleted:    ../assignment4/tables_of_anniversaries/anniversaries_january.md
+	deleted:    ../assignment4/tables_of_anniversaries/anniversaries_july.md
+	deleted:    ../assignment4/tables_of_anniversaries/anniversaries_june.md
+	deleted:    ../assignment4/tables_of_anniversaries/anniversaries_march.md
+	deleted:    ../assignment4/tables_of_anniversaries/anniversaries_may.md
+	deleted:    ../assignment4/tables_of_anniversaries/anniversaries_november.md
+	deleted:    ../assignment4/tables_of_anniversaries/anniversaries_october.md
+	deleted:    ../assignment4/tables_of_anniversaries/anniversaries_september.md
+	deleted:    ../assignment4/tests/conftest.py
+	deleted:    ../assignment4/tests/test_collect_dates.py
+	deleted:    ../assignment4/tests/test_fetch_olympic_statistics.py
+	deleted:    ../assignment4/tests/test_files.py
+	deleted:    ../assignment4/tests/test_filter_urls.py
+	deleted:    ../assignment4/tests/test_find_anniversaries.py
+	deleted:    ../assignment4/tests/test_requesting_urls.py
+	deleted:    ../assignment4/wiki_race_challenge.py
+	deleted:    ../assignment5/README.md
+	deleted:    ../assignment5/app.py
+	deleted:    ../assignment5/docs/Makefile
+	deleted:    ../assignment5/docs/_build/doctrees/api.doctree
+	deleted:    ../assignment5/docs/_build/doctrees/environment.pickle
+	deleted:    ../assignment5/docs/_build/doctrees/fastapi.doctree
+	deleted:    ../assignment5/docs/_build/doctrees/index.doctree
+	deleted:    ../assignment5/docs/_build/html/.buildinfo
+	deleted:    ../assignment5/docs/_build/html/_sources/api.rst.txt
+	deleted:    ../assignment5/docs/_build/html/_sources/fastapi.rst.txt
+	deleted:    ../assignment5/docs/_build/html/_sources/index.rst.txt
+	deleted:    ../assignment5/docs/_build/html/_static/_sphinx_javascript_frameworks_compat.js
+	deleted:    ../assignment5/docs/_build/html/_static/alabaster.css
+	deleted:    ../assignment5/docs/_build/html/_static/basic.css
+	deleted:    ../assignment5/docs/_build/html/_static/custom.css
+	deleted:    ../assignment5/docs/_build/html/_static/doctools.js
+	deleted:    ../assignment5/docs/_build/html/_static/documentation_options.js
+	deleted:    ../assignment5/docs/_build/html/_static/file.png
+	deleted:    ../assignment5/docs/_build/html/_static/jquery-3.6.0.js
+	deleted:    ../assignment5/docs/_build/html/_static/jquery.js
+	deleted:    ../assignment5/docs/_build/html/_static/language_data.js
+	deleted:    ../assignment5/docs/_build/html/_static/minus.png
+	deleted:    ../assignment5/docs/_build/html/_static/plus.png
+	deleted:    ../assignment5/docs/_build/html/_static/pygments.css
+	deleted:    ../assignment5/docs/_build/html/_static/searchtools.js
+	deleted:    ../assignment5/docs/_build/html/_static/underscore-1.13.1.js
+	deleted:    ../assignment5/docs/_build/html/_static/underscore.js
+	deleted:    ../assignment5/docs/_build/html/api.html
+	deleted:    ../assignment5/docs/_build/html/fastapi.html
+	deleted:    ../assignment5/docs/_build/html/genindex.html
+	deleted:    ../assignment5/docs/_build/html/index.html
+	deleted:    ../assignment5/docs/_build/html/objects.inv
+	deleted:    ../assignment5/docs/_build/html/py-modindex.html
+	deleted:    ../assignment5/docs/_build/html/search.html
+	deleted:    ../assignment5/docs/_build/html/searchindex.js
+	deleted:    ../assignment5/docs/api.rst
+	deleted:    ../assignment5/docs/conf.py
+	deleted:    ../assignment5/docs/fastapi.rst
+	deleted:    ../assignment5/docs/http_cache.sqlite
+	deleted:    ../assignment5/docs/index.rst
+	deleted:    ../assignment5/docs/make.bat
+	deleted:    ../assignment5/http_cache.sqlite
+	deleted:    ../assignment5/output_test.txt
+	deleted:    ../assignment5/pyproject.toml
+	deleted:    ../assignment5/requirements.txt
+	deleted:    ../assignment5/requirements2.txt
+	deleted:    ../assignment5/strompris.py
+	deleted:    ../assignment5/templates/strompris.html
+	deleted:    ../assignment5/tests/conftest.py
+	deleted:    ../assignment5/tests/test_app.py
+	deleted:    ../assignment5/tests/test_files.py
+	deleted:    ../assignment5/tests/test_strompris.py
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	../.editorconfig
+	../LLM-detection/
+	../MyFirstApi/
+	../NLP-notebook/
+	../NLP-notebook2/
+	../alignment/
+	../aml-kyc/
+	../bors-dashboard/
+	../compound-streamlit/
+	../cs50ai/
+	../fast-api-week-tasks/
+	../freedom-of-the-will/
+	../greek-corpus-search/
+	../homepage/
+	../in1150-v25/
+	../in2110/
+	../in3050/
+	../in3110/
+	../in3120-2024/
+	../investment-project/
+	../kvakk.py
+	output.txt
+	../math-for-machine-learning/
+	../meta-data-picture/
+	../metronome-app/
+	../nordnet-project/
+	../nursing/
+	../plagariser-checker/
+	../plan/
+	../py-otel-asyncio-example/
+	../sent-an/
+	../sherlock/
+	../snow_white/
+	../test-manim/
+	../test-vim/
+	../time-tracker/
+	../tracker-csharp/
+
+no changes added to commit (use "git add" and/or "git commit -a")
