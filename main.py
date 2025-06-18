@@ -17,7 +17,7 @@ def main():
     <br>
     It will generate a prompt based on the situation (what has happened), what you learned from the situation (about),
     and generate some fluff using Mistral and Ollama based on the situation and the learning experience, as well as the
-    cringe level (starts at 5, goes to 11) and a specified tone.
+    cringe level (starts at 5, goes to 11) and a specified tone. <br> The result of the prompt will then be displayed on this page.
     </div>
     """
 
@@ -46,7 +46,7 @@ def main():
         placeholder = st.empty()
 
         # Display rotating quotes every 5 seconds for up to 15 seconds
-        for _ in range(3):  # 3 quotes, 5s each = 15s
+        for _ in range(10): 
             quote = random_top_g_energy()
             placeholder.info(f"⏳ Generating your post... While waiting, reflect on the wisdom of the alpha:\n\n💬 *\"{quote}\"*")
             time.sleep(5)
