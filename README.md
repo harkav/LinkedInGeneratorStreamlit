@@ -7,3 +7,28 @@ get it to work.
 And also partly because the buzz-word bonanaza at LinkedIn is quite annoying. 
 
 I really relied heavyily on chatgpt here, but I learned a bit and had a bunch of fun. 
+
+
+How to run
+
+```bash
+
+streamlit run main.py
+```
+
+How to install 
+
+create a venv 
+
+```bash
+
+python -m venv .venv
+```
+
+install requirements
+
+```bash
+
+pip -r install requirements.txt
+
+```
