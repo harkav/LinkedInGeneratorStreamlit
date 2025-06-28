@@ -32,3 +32,11 @@ install requirements
 pip -r install requirements.txt
 
 ```
+
+TODO - video to text functionality 
+
+ - find a library of fluffy videos 
+ - extract frames, maybe 1 fr a second
+ - feed image to im to text model 
+ - 
+
